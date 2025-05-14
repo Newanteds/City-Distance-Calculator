@@ -39,8 +39,9 @@ This project is a C# console application that calculates and analyzes distances 
 🚫 The project uses a predefined list of Turkish cities and their distances.  
 
 ## 👥 Contributors
-- Emir Kahraman
+
 - Bülent Yıldırım
+- Emir Kahraman
 
 ## 📄 License
 This project is licensed under the MIT License.
